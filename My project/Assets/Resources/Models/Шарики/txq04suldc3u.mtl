@@ -1,0 +1,24 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl Material
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ke 0 0 0
+d 0.7500001192092896
+Ni 1
+Ns 50
+illum 2
+map_Kd 0-3568_red-balloon-png-clip-art-transparent-red-balloon.png
+
+newmtl Material_001
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ke 0 0 0
+Ni 1
+Ns 50
+illum 2
+map_Kd 0-3568_red-balloon-png-clip-art-transparent-red-balloon.png
+
